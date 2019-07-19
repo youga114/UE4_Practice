@@ -1,0 +1,1522 @@
+﻿Log file open, 07/19/19 17:06:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: STL_BPRPG
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198381
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6574378
+LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 750
+LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=긴뉴비 -epicuserid=ffc54f6fbe8f48dcb72fddc99f6d03a3 -epiclocale=ko-KR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.19-08.06.15:064][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.19-08.06.15:064][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.19-08.06.15:064][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Engine.ini]
+[2019.07.19-08.06.15:064][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.19-08.06.15:064][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.07.19-08.06.15:065][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Engine.ini]
+[2019.07.19-08.06.15:066][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Engine.ini]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Engine.ini]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.19-08.06.15:066][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Engine.ini]
+[2019.07.19-08.06.15:066][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Engine.ini]
+[2019.07.19-08.06.15:069][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.19-08.06.15:069][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.19-08.06.15:070][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.19-08.06.15:070][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.19-08.06.15:070][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.19-08.06.15:088][  0]LogHAL: Display: Platform has ~ 8 GB [8541822976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.19-08.06.15:088][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.19-08.06.15:088][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.19-08.06.15:088][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:088][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.19-08.06.15:088][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.19-08.06.15:088][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:088][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.19-08.06.15:088][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:088][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.19-08.06.15:088][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Scalability.ini]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.19-08.06.15:089][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.19-08.06.15:090][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.19-08.06.15:090][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.19-08.06.15:090][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.19-08.06.15:090][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Config/Windows/Engine.ini]
+[2019.07.19-08.06.15:090][  0]LogInit: Computer: DESKTOP-MKQ8MKT
+[2019.07.19-08.06.15:090][  0]LogInit: User: STL
+[2019.07.19-08.06.15:090][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.19-08.06.15:090][  0]LogInit: High frequency timer resolution =3.117789 MHz
+[2019.07.19-08.06.15:090][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.07.19-08.06.15:090][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.19-08.06.15:090][  0]LogMemory: Process Physical Memory: 96.39 MB used, 96.39 MB peak
+[2019.07.19-08.06.15:090][  0]LogMemory: Process Virtual Memory: 83.76 MB used, 83.76 MB peak
+[2019.07.19-08.06.15:090][  0]LogMemory: Physical Memory: 3286.29 MB used,  4859.82 MB free, 8146.12 MB total
+[2019.07.19-08.06.15:090][  0]LogMemory: Virtual Memory: 4637.10 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.07.19-08.06.15:112][  0]LogInit: Using OS detected language (ko-KR).
+[2019.07.19-08.06.15:112][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.07.19-08.06.15:113][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.07.19-08.06.15:216][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.19-08.06.15:252][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.19-08.06.15:252][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.19-08.06.15:435][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.19-08.06.15:435][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.19-08.06.15:488][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750' (Feature Level 11_0)
+[2019.07.19-08.06.15:488][  0]LogD3D11RHI:       994/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.07.19-08.06.15:491][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.19-08.06.15:491][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.19-08.06.15:491][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.19-08.06.15:498][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.19-08.06.15:499][  0]LogD3D11RHI:     GPU DeviceId: 0x1381 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.19-08.06.15:499][  0]LogWindows: EnumDisplayDevices:
+[2019.07.19-08.06.15:499][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750' (P:1 D:1)
+[2019.07.19-08.06.15:499][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750' (P:0 D:0)
+[2019.07.19-08.06.15:500][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750' (P:0 D:0)
+[2019.07.19-08.06.15:500][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.07.19-08.06.15:500][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750
+[2019.07.19-08.06.15:500][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.07.19-08.06.15:500][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.07.19-08.06.15:500][  0]LogRHI: Texture pool is 696 MB (70% of 994 MB)
+[2019.07.19-08.06.15:538][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.19-08.06.15:543][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.19-08.06.15:543][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.19-08.06.15:543][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.19-08.06.15:558][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.07.19-08.06.15:878][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.19-08.06.15:894][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.19-08.06.15:911][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.19-08.06.15:929][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.19-08.06.15:946][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.19-08.06.15:963][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.19-08.06.15:981][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.19-08.06.15:998][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.19-08.06.16:007][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.19-08.06.16:106][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.19-08.06.16:107][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.19-08.06.16:107][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.19-08.06.16:107][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.19-08.06.16:107][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.19-08.06.16:107][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.19-08.06.16:108][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.19-08.06.16:164][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.19-08.06.16:164][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.19-08.06.16:192][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.19-08.06.16:192][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.19-08.06.16:206][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.19-08.06.16:221][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.19-08.06.16:235][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.19-08.06.16:251][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.19-08.06.16:302][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.19-08.06.16:302][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.19-08.06.16:302][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.19-08.06.16:314][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.19-08.06.16:385][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Intermediate/Shaders/WorkingDirectory/1148/).
+[2019.07.19-08.06.16:385][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/STL/AppData/Local/Temp/UnrealShaderWorkingDir/C013CD16427DEDEE3EEB828E837FB2EF/'.
+[2019.07.19-08.06.16:389][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.19-08.06.16:389][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.19-08.06.16:389][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.19-08.06.16:989][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.19-08.06.17:074][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/STL/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.19-08.06.17:074][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/STL/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.19-08.06.17:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.19-08.06.17:074][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.19-08.06.17:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.19-08.06.17:074][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.19-08.06.17:087][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.19-08.06.17:087][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.19-08.06.17:087][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.19-08.06.17:100][  0]LogDerivedDataCache: Using Local data cache path C:/Users/STL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.19-08.06.17:100][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.19-08.06.17:100][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.19-08.06.17:124][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.19-08.06.17:125][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.19-08.06.17:126][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.19-08.06.17:216][  0]LogAssetRegistry: FAssetRegistry took 0.0353 seconds to start up
+[2019.07.19-08.06.17:572][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.19-08.06.17:718][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.19-08.06.17:718][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.19-08.06.17:718][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.19-08.06.17:718][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.19-08.06.17:719][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.19-08.06.17:736][  0]LogNetVersion: STL_BPRPG 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3528198740)
+[2019.07.19-08.06.18:199][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.041623 seconds
+[2019.07.19-08.06.18:205][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.19-08.06.18:205][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.19-08.06.18:205][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.19-08.06.19:119][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.19-08.06.19:133][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.19-08.06.19:283][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.07.19-08.06.19:283][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.07.19-08.06.19:285][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.07.19-08.06.19:286][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.07.19-08.06.19:372][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.19-08.06.19:432][  0]LogOcInput: OculusInput pre-init called
+[2019.07.19-08.06.20:168][  0]LogEngine: Initializing Engine...
+[2019.07.19-08.06.20:169][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.19-08.06.20:170][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.19-08.06.20:412][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.19-08.06.20:431][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.19-08.06.20:446][  0]LogInit: XAudio2 using '디지털 오디오(S/PDIF)(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.19-08.06.20:472][  0]LogInit: FAudioDevice initialized.
+[2019.07.19-08.06.20:473][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.19-08.06.20:561][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/STL/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.19-08.06.20:567][  0]LogInit: Texture streaming: Enabled
+[2019.07.19-08.06.20:590][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.19-08.06.20:617][  0]LogInit: Transaction tracking system initialized
+[2019.07.19-08.06.20:653][  0]BlueprintLog: New page: 에디터 로드
+[2019.07.19-08.06.20:780][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.07.19-08.06.21:130][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/' took 0.02s
+[2019.07.19-08.06.21:130][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.19-08.06.21:130][  0]LogCook: Display: Mobile HDR setting 0
+[2019.07.19-08.06.21:335][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.07.19-08.06.21:335][  0]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Step02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.06.21:335][  0]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.06.21:340][  0]MapCheck: New page: 맵 체크
+[2019.07.19-08.06.21:340][  0]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.06.21:364][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.07.19-08.06.21:667][  0]LogAIModule: Creating AISystem for world Step02
+[2019.07.19-08.06.21:675][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.06.21:711][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.07.19-08.06.21:711][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.06.21:712][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.218ms.
+[2019.07.19-08.06.21:712][  0]LogFileHelpers: Loading map 'Step02' took 0.378
+[2019.07.19-08.06.21:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-08.06.21:856][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-08.06.21:865][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-08.06.21:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-08.06.21:892][  0]LogCollectionManager: Loaded 0 collections in 0.002816 seconds
+[2019.07.19-08.06.21:935][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Collections/' took 0.01s
+[2019.07.19-08.06.21:935][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Developers/STL/Collections/' took 0.00s
+[2019.07.19-08.06.21:935][  0]LogFileCache: Scanning file cache for directory 'C:/Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Collections/' took 0.01s
+[2019.07.19-08.06.21:935][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.07.19-08.06.21:961][  0]LogContentBrowser: Native class hierarchy populated in 0.0242 seconds. Added 2732 classes and 659 folders.
+[2019.07.19-08.06.21:975][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.19-08.06.21:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.21:995][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:013][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:020][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:026][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:038][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:044][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:072][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:078][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:084][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:091][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:151][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:157][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:176][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.19-08.06.22:365][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.07.19-08.06.22:381][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.07.19-08.06.22:412][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2019.07.19-08.06.22:424][  0]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.07.19-08.06.22:469][  0]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.19-08.06.22:473][  0]LogSlate: Took 0.002855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.07.19-08.06.22:477][  0]LogSlate: Took 0.002855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.07.19-08.06.22:477][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.19-08.06.22:488][  0]LogSlate: Took 0.005310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.19-08.06.22:669][  0]LogRenderer: Reallocating scene render targets to support 1600x900 Format 10 NumSamples 1 (Frame:1).
+[2019.07.19-08.06.22:694][  0]LogRenderer: Reallocating scene render targets to support 1600x1000 Format 10 NumSamples 1 (Frame:1).
+[2019.07.19-08.06.22:867][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.19-08.06.22:867][  0]LogLoad: (Engine Initialization) Total time: 9.97 seconds
+[2019.07.19-08.06.22:867][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.19-08.06.22:880][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.07.19-08.06.22:912][  0]LogAssetRegistry: Asset discovery search completed in 5.7177 seconds
+[2019.07.19-08.06.22:915][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.19-08.06.22:915][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.07.19-08.06.22:916][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.07.19-08.06.22:968][  0]LogSlate: Took 0.005901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.19-08.06.23:929][ 29]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.19-08.06.32:985][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.06.33:036][454]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.07.19-08.06.33:050][454]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Step02.Step02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Step02.Step02:PersistentLevel.Step02' with GeneratedClass '/Game/Maps/Step02.Step02_C' with ClassGeneratedBy '/Game/Maps/Step02.Step02:PersistentLevel.Step02'
+[2019.07.19-08.06.33:051][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.19-08.06.33:055][454]PIE: New page: PIE 세션: Step02 (2019. 7. 20. 오전 2:06:33)
+[2019.07.19-08.06.33:070][454]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Step02
+[2019.07.19-08.06.33:077][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007622s)
+[2019.07.19-08.06.33:078][454]LogAIModule: Creating AISystem for world Step02
+[2019.07.19-08.06.33:078][454]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2019.07.19-08.06.33:078][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Step02.Step02 to /Game/Maps/UEDPIE_0_Step02.Step02 (0.008776s)
+[2019.07.19-08.06.33:101][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.07.19-08.06.33:105][454]LogInit: XAudio2 using '디지털 오디오(S/PDIF)(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.19-08.06.33:115][454]LogInit: FAudioDevice initialized.
+[2019.07.19-08.06.33:489][454]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.19-08.06.33:494][454]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Step02.Step02 up for play (max tick rate 0) at 2019.07.19-17.06.33
+[2019.07.19-08.06.33:494][454]LogWorld: Bringing up level for play took: 0.002578
+[2019.07.19-08.06.33:518][454]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.07.19-08.06.33:527][454]PIE: /Game/Maps/UEDPIE_0_Step02 에 대한 에디터에서 플레이 시작 시간: 1.004
+[2019.07.19-08.06.33:527][454]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Step02.Step02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Step02.Step02:PersistentLevel.Step02' with GeneratedClass '/Game/Maps/Step02.Step02_C' with ClassGeneratedBy '/Game/Maps/Step02.Step02:PersistentLevel.Step02'
+[2019.07.19-08.07.18:973][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Step02.Step02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Step02.Step02:PersistentLevel.Step02' with GeneratedClass '/Game/Maps/Step02.Step02_C' with ClassGeneratedBy '/Game/Maps/Step02.Step02:PersistentLevel.Step02'
+[2019.07.19-08.07.18:974][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-08.07.19:045][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.19-08.07.19:046][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Step02.Step02:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Step02.Step02:PersistentLevel.Step02' with GeneratedClass '/Game/Maps/Step02.Step02_C' with ClassGeneratedBy '/Game/Maps/Step02.Step02:PersistentLevel.Step02'
+[2019.07.19-08.07.19:072][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-08.07.19:077][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.07.19-08.07.19:108][258]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.07.19-08.07.51:626][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.08.12:916][225]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.08.16:614][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.08.35:878][ 56]LogSlate: Window '에디터 개인설정' being destroyed
+[2019.07.19-08.08.35:907][ 56]LogSlate: Window '에디터 개인설정' being destroyed
+[2019.07.19-08.08.38:200][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.08.46:494][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.08.46:632][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.08.47:640][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.08.48:695][515]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.11.22:396][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.11.23:658][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.11.25:265][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.07.19-08.11.25:267][123]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Step03.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.11.25:300][123]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.11.25:301][123]LoadErrors: New page: 맵 로드중: Step03.umap
+[2019.07.19-08.11.25:313][123]MapCheck: New page: 맵 체크
+[2019.07.19-08.11.25:313][123]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.11.25:339][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.07.19-08.11.25:539][123]LogAIModule: Creating AISystem for world Step03
+[2019.07.19-08.11.25:552][123]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.11.25:578][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.07.19-08.11.25:607][123]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.11.25:607][123]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.117ms.
+[2019.07.19-08.11.25:607][123]LogFileHelpers: Loading map 'Step03' took 0.342
+[2019.07.19-08.11.25:608][123]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.11.25:637][124]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '라 (U+b77c)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.07.19-08.11.25:640][124]LogSlate: Took 0.003230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.07.19-08.11.33:031][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall5)
+[2019.07.19-08.11.33:658][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column6)
+[2019.07.19-08.11.35:116][970]Cmd: DELETE
+[2019.07.19-08.11.35:116][970]Cmd: ACTOR DELETE
+[2019.07.19-08.11.35:125][970]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.35:149][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.19-08.11.35:149][970]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.07.19-08.11.35:712][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column5)
+[2019.07.19-08.11.36:227][ 69]Cmd: DELETE
+[2019.07.19-08.11.36:227][ 69]Cmd: ACTOR DELETE
+[2019.07.19-08.11.36:229][ 69]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.36:251][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.07.19-08.11.36:251][ 69]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.07.19-08.11.36:618][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall5)
+[2019.07.19-08.11.36:775][113]Cmd: DELETE
+[2019.07.19-08.11.36:775][113]Cmd: ACTOR DELETE
+[2019.07.19-08.11.36:776][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.36:797][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.19-08.11.36:798][113]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.07.19-08.11.37:691][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall4)
+[2019.07.19-08.11.38:611][289]Cmd: DELETE
+[2019.07.19-08.11.38:611][289]Cmd: ACTOR DELETE
+[2019.07.19-08.11.38:612][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.38:634][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.19-08.11.38:634][289]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.07.19-08.11.40:645][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall8)
+[2019.07.19-08.11.43:126][673]Cmd: DELETE
+[2019.07.19-08.11.43:126][673]Cmd: ACTOR DELETE
+[2019.07.19-08.11.43:127][673]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.43:148][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.07.19-08.11.43:149][673]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2019.07.19-08.11.43:558][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column9)
+[2019.07.19-08.11.43:878][737]Cmd: DELETE
+[2019.07.19-08.11.43:878][737]Cmd: ACTOR DELETE
+[2019.07.19-08.11.43:879][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.43:903][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.07.19-08.11.43:903][737]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.19-08.11.44:175][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall9)
+[2019.07.19-08.11.44:305][768]Cmd: DELETE
+[2019.07.19-08.11.44:305][768]Cmd: ACTOR DELETE
+[2019.07.19-08.11.44:307][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.44:327][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.07.19-08.11.44:328][768]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.07.19-08.11.44:639][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column10)
+[2019.07.19-08.11.44:960][823]Cmd: DELETE
+[2019.07.19-08.11.44:960][823]Cmd: ACTOR DELETE
+[2019.07.19-08.11.44:961][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.44:983][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.19-08.11.44:984][823]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.07.19-08.11.45:282][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall10)
+[2019.07.19-08.11.45:463][862]Cmd: DELETE
+[2019.07.19-08.11.45:463][862]Cmd: ACTOR DELETE
+[2019.07.19-08.11.45:464][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.45:487][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.07.19-08.11.45:488][862]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.19-08.11.46:935][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column11)
+[2019.07.19-08.11.47:061][978]Cmd: DELETE
+[2019.07.19-08.11.47:061][978]Cmd: ACTOR DELETE
+[2019.07.19-08.11.47:062][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.47:086][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.07.19-08.11.47:086][978]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.19-08.11.49:198][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall3)
+[2019.07.19-08.11.49:583][155]Cmd: DELETE
+[2019.07.19-08.11.49:583][155]Cmd: ACTOR DELETE
+[2019.07.19-08.11.49:584][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.49:607][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.19-08.11.49:607][155]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.07.19-08.11.49:937][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Column4)
+[2019.07.19-08.11.50:083][197]Cmd: DELETE
+[2019.07.19-08.11.50:083][197]Cmd: ACTOR DELETE
+[2019.07.19-08.11.50:085][197]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.11.50:107][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.19-08.11.50:107][197]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.07.19-08.11.51:052][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.12.21:283][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.12.26:153][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.13.32:303][510]LogSlate: Window '병합된 액터 생성' being destroyed
+[2019.07.19-08.13.32:312][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.13.32:427][510]LogStaticMesh: SM_L_Block 스태틱 메시 빌드중...
+[2019.07.19-08.13.33:600][510]LogStaticMesh: Built static mesh [1.17s] /Game/Lesson2/Ruins/SM_L_Block.SM_L_Block
+[2019.07.19-08.13.33:605][510]LogStaticMesh: Warning: SM_L_Block 메시에 거의 0 인 탄젠트가 있어 문제 발생 소지가 있습니다. (허용치 1E-4)
+[2019.07.19-08.13.33:606][510]LogStaticMesh: Warning: SM_L_Block 메시에 거의 0 인 바이노멀이 있어 문제 발생 소지가 있습니다. (허용치 1E-4)
+[2019.07.19-08.13.33:638][510]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.13.36:596][814]LogSlate: Window '액터 병합' being destroyed
+[2019.07.19-08.13.36:608][814]LogSlate: Window '액터 병합' being destroyed
+[2019.07.19-08.13.40:855][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_L_Block)
+[2019.07.19-08.14.23:021][571]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.370 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.19-08.15.19:646][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.15.35:528][234]LogSlate: Window '새 레벨' being destroyed
+[2019.07.19-08.15.37:017][234]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.07.19-08.15.37:036][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Step03" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Step03.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.19-08.15.37:064][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.07.19-08.15.37:193][234]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/Step03A15F817543742B4DAA37068D2717F678.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Step03.umap'
+[2019.07.19-08.15.37:227][234]LogFileHelpers: Saving map 'Step03' took 0.192
+[2019.07.19-08.15.37:230][234]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.15.37:231][234]MapCheck: New page: 맵 체크
+[2019.07.19-08.15.37:231][234]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.15.37:256][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.07.19-08.15.37:258][234]LogAIModule: Creating AISystem for world Untitled
+[2019.07.19-08.15.37:261][234]LoadErrors: New page: 새 맵
+[2019.07.19-08.15.37:279][234]LogAIModule: Creating AISystem for world Step03
+[2019.07.19-08.15.39:148][408]LogActorFactory: Actor Factory created SM_Floor
+[2019.07.19-08.15.40:564][576]LogActorFactory: Actor Factory created SM_Floor
+[2019.07.19-08.15.45:419][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.16.06:930][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.16.12:499][974]LogActorFactory: Actor Factory created SM_L_Block
+[2019.07.19-08.16.13:069][ 40]LogActorFactory: Actor Factory created SM_L_Block
+[2019.07.19-08.16.14:911][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.16.15:405][205]LogSlate: Took 0.006931 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.19-08.17.04:647][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.18.55:910][588]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2019.07.19-08.18.55:972][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.07.19-08.18.55:989][588]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel10452448F429257E7FF2412AE866AC347.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel1.umap'
+[2019.07.19-08.18.56:048][588]LogFileHelpers: Saving map 'BlockLevel1' took 0.133
+[2019.07.19-08.19.09:023][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.19.22:876][644]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (26.813 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.19-08.19.23:110][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.19.33:271][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.07.19-08.19.33:346][887]LogAIModule: Creating AISystem for world BlockLevel2
+[2019.07.19-08.19.37:506][384]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Main/BlockLevel2.BlockLevel2
+[2019.07.19-08.19.37:530][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.07.19-08.19.39:226][384]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.07.19-08.19.39:248][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lesson2/Ruins/SM_L_Block" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Lesson2/Ruins/SM_L_Block.uasset" SILENT=true
+[2019.07.19-08.19.39:311][384]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/SM_L_Block241BE71249D5BC2F4EC008BDD0603551.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Lesson2/Ruins/SM_L_Block.uasset'
+[2019.07.19-08.19.39:341][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.07.19-08.19.39:426][384]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel2A198AAC8482B87C2D473D9B53ADEB207.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel2.umap'
+[2019.07.19-08.19.39:429][384]LogFileHelpers: Saving map 'BlockLevel2' took 0.115
+[2019.07.19-08.19.39:431][384]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.19.39:432][384]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.19.39:432][384]LoadErrors: New page: 맵 로드중: BlockLevel2.umap
+[2019.07.19-08.19.39:433][384]MapCheck: New page: 맵 체크
+[2019.07.19-08.19.39:433][384]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.19.39:458][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.07.19-08.19.39:483][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.07.19-08.19.39:507][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.07.19-08.19.39:509][384]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.19.39:534][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.07.19-08.19.39:567][384]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.19.39:567][384]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.117ms.
+[2019.07.19-08.19.39:568][384]LogFileHelpers: Loading map 'BlockLevel2' took 0.138
+[2019.07.19-08.19.56:109][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.22.20:082][405]LogTexture: Display: 텍스처 빌드: T_Plains_Fern01_D (AutoDXT, 2048X2048)
+[2019.07.19-08.22.20:082][405]LogTexture: Display: 텍스처 빌드: T_Plains_Fern01_N (AutoDXT, 2048X2048)
+[2019.07.19-08.22.20:082][405]LogMaterial: Display: Missing cached shader map for material M_PLains_Fern01, compiling. 
+[2019.07.19-08.22.20:203][405]LogStaticMesh: SM_Plains_Fern02 스태틱 메시 빌드중...
+[2019.07.19-08.22.20:271][405]LogStaticMesh: Built static mesh [0.07s] /Game/Lesson2/Flora/SM_Plains_Fern02.SM_Plains_Fern02
+[2019.07.19-08.22.20:291][405]LogStaticMesh: SM_Plains_Fern04 스태틱 메시 빌드중...
+[2019.07.19-08.22.20:349][405]LogStaticMesh: Built static mesh [0.06s] /Game/Lesson2/Flora/SM_Plains_Fern04.SM_Plains_Fern04
+[2019.07.19-08.22.26:402][405]LogTexture: Display: 텍스처 빌드: T_Plains_Tree01_D (AutoDXT, 2048X2048)
+[2019.07.19-08.22.26:402][405]LogTexture: Display: 텍스처 빌드: T_Plains_Tree01_N (BC5, 2048X2048)
+[2019.07.19-08.22.26:402][405]LogMaterial: Display: Missing cached shader map for material M_Plains_Tree_Stump01, compiling. 
+[2019.07.19-08.22.26:428][405]LogStaticMesh: SM_Plains_Tree_Stump01 스태틱 메시 빌드중...
+[2019.07.19-08.22.26:439][405]LogStaticMesh: Built static mesh [0.01s] /Game/Lesson2/Flora/SM_Plains_Tree_Stump01.SM_Plains_Tree_Stump01
+[2019.07.19-08.22.26:516][405]LogActorFactory: Actor Factory created SM_Plains_Fern02
+[2019.07.19-08.22.26:517][405]LogActorFactory: Actor Factory created SM_Plains_Fern04
+[2019.07.19-08.22.26:517][405]LogActorFactory: Actor Factory created SM_Plains_Tree_Stump01
+[2019.07.19-08.22.28:832][645]LogActorFactory: Actor Factory created SM_Plains_Fern02
+[2019.07.19-08.22.28:851][645]LogActorFactory: Actor Factory created SM_Plains_Fern04
+[2019.07.19-08.22.28:872][645]LogActorFactory: Actor Factory created SM_Plains_Tree_Stump01
+[2019.07.19-08.22.31:324][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.22.35:035][337]LogEditorViewport: Clicking Background
+[2019.07.19-08.22.38:675][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.22.41:336][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.22.42:024][ 80]LogSlate: Window '새 레벨' being destroyed
+[2019.07.19-08.22.42:031][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.22.45:044][ 80]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.07.19-08.22.45:051][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.22.45:083][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.07.19-08.22.45:188][ 80]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel2C70E9E1243025741EDC6D1A37B0FEF1D.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel2.umap'
+[2019.07.19-08.22.45:220][ 80]LogFileHelpers: Saving map 'BlockLevel2' took 0.166
+[2019.07.19-08.22.45:223][ 80]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.22.45:226][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.22.45:238][ 80]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.22.45:239][ 80]LoadErrors: New page: 맵 로드중: Template_Default.umap
+[2019.07.19-08.22.45:239][ 80]MapCheck: New page: 맵 체크
+[2019.07.19-08.22.45:240][ 80]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.22.45:265][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.07.19-08.22.45:281][ 80]LogAIModule: Creating AISystem for world Untitled_2
+[2019.07.19-08.22.45:288][ 80]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.22.45:316][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.07.19-08.22.45:318][ 80]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.22.45:319][ 80]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.141ms.
+[2019.07.19-08.22.45:319][ 80]LogFileHelpers: Loading map 'Template_Default' took 0.095
+[2019.07.19-08.22.45:328][ 80]LogAIModule: Creating AISystem for world BlockLevel2
+[2019.07.19-08.22.46:600][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.19-08.22.47:347][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.07.19-08.22.47:728][334]Cmd: DELETE
+[2019.07.19-08.22.47:728][334]Cmd: ACTOR DELETE
+[2019.07.19-08.22.47:730][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.22.47:753][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.07.19-08.22.47:754][334]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.19-08.22.51:320][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.23.09:967][755]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2019.07.19-08.23.09:974][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.23.10:009][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.07.19-08.23.10:013][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockMain" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.19-08.23.10:039][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.07.19-08.23.10:139][755]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockMain4A25A9424D904073411EA08FDF2DF60B.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap'
+[2019.07.19-08.23.10:172][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockMain_BuiltData" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain_BuiltData.uasset" SILENT=true
+[2019.07.19-08.23.10:187][755]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockMain_BuiltData92333F0B4B2CA17AEB5BADA06D9A56CB.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain_BuiltData.uasset'
+[2019.07.19-08.23.10:212][755]LogFileHelpers: Saving map 'BlockMain' took 0.240
+[2019.07.19-08.23.13:949][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.24.04:161][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockMain" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.19-08.24.04:188][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.07.19-08.24.04:300][770]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockMainF73ABDF948E44540751036BF193F6AA5.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap'
+[2019.07.19-08.24.04:335][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockMain_BuiltData" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain_BuiltData.uasset" SILENT=true
+[2019.07.19-08.24.04:363][770]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockMain_BuiltData24684A5A46F2550D05847497ED515A61.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain_BuiltData.uasset'
+[2019.07.19-08.24.17:344][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.25.29:867][953]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel1) is flushing async loading
+[2019.07.19-08.25.29:867][953]LogStreaming: Display: Flushing async loaders.
+[2019.07.19-08.25.29:877][953]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.25.34:701][425]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.25.35:782][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.25.47:000][595]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.25.51:244][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Fern02)
+[2019.07.19-08.26.05:120][163]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.19-08.26.06:049][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2019.07.19-08.26.15:137][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.26.44:739][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.27.13:364][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2019.07.19-08.27.14:652][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_L_Block)
+[2019.07.19-08.27.15:700][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.27.17:880][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.27.19:986][466]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Floor)
+[2019.07.19-08.27.20:010][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.27.23:407][848]Cmd: PIVOT HERE
+[2019.07.19-08.27.35:519][267]LogEditorViewport: Clicking Background
+[2019.07.19-08.27.37:997][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.27.38:106][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.07.19-08.27.38:136][569]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel1D6FE804D499559096B027BABD83BB006.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel1.umap'
+[2019.07.19-08.27.39:594][742]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.27.43:801][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Fern02)
+[2019.07.19-08.27.47:438][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Fern04)
+[2019.07.19-08.27.49:942][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Plains_Tree_Stump01)
+[2019.07.19-08.27.57:789][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.27.57:908][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.07.19-08.27.57:920][375]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: BlockLevel1, Actor: /Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.REINST_BlockLevel1_C_0
+[2019.07.19-08.27.58:004][375]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel1E652A1324F16CDD199E742B3D30B6516.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel1.umap'
+[2019.07.19-08.29.00:907][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.29.08:121][277]LogTexture: Display: 텍스처 빌드: T_Plains_Rock01_N (BC5, 2048X2048)
+[2019.07.19-08.29.08:121][277]LogTexture: Display: 텍스처 빌드: T_Plains_Rock01_D (AutoDXT, 2048X2048)
+[2019.07.19-08.29.08:121][277]LogMaterial: Display: Missing cached shader map for material M_Plains_LargeRock, compiling. 
+[2019.07.19-08.29.08:163][277]LogStaticMesh: SM_Plains_LargeRock01 스태틱 메시 빌드중...
+[2019.07.19-08.29.08:184][277]LogStaticMesh: Built static mesh [0.02s] /Game/Lesson2/Rocks/SM_Plains_LargeRock01.SM_Plains_LargeRock01
+[2019.07.19-08.29.08:210][277]LogActorFactory: Actor Factory created SM_Plains_LargeRock01
+[2019.07.19-08.29.10:194][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.29.21:470][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.07.19-08.29.22:654][315]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.07.19-08.29.22:692][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.07.19-08.29.22:709][315]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: BlockLevel2, Actor: /Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.REINST_BlockLevel2_C_0
+[2019.07.19-08.29.22:795][315]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel26A97683F4F9394625DD695978B7184F7.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel2.umap'
+[2019.07.19-08.29.22:799][315]LogFileHelpers: Saving map 'BlockLevel2' took 0.133
+[2019.07.19-08.29.22:801][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockMain" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.19-08.29.22:827][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.07.19-08.29.22:939][315]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockMainD2FD953240C349B1D5EFA89EE0802F21.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap'
+[2019.07.19-08.29.22:972][315]LogFileHelpers: Saving map 'BlockMain' took 0.172
+[2019.07.19-08.29.22:976][315]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.29.22:981][315]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.29.22:982][315]LoadErrors: New page: 맵 로드중: BlockLevel1.umap
+[2019.07.19-08.29.22:984][315]MapCheck: New page: 맵 체크
+[2019.07.19-08.29.22:984][315]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.29.23:009][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.07.19-08.29.23:011][315]LogAIModule: Creating AISystem for world BlockLevel1
+[2019.07.19-08.29.23:014][315]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.29.23:040][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.07.19-08.29.23:069][315]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.29.23:069][315]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.113ms.
+[2019.07.19-08.29.23:070][315]LogFileHelpers: Loading map 'BlockLevel1' took 0.095
+[2019.07.19-08.29.23:070][315]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.29.23:084][315]LogAIModule: Creating AISystem for world BlockLevel2
+[2019.07.19-08.29.23:095][315]LogAIModule: Creating AISystem for world BlockMain
+[2019.07.19-08.29.23:122][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.07.19-08.29.31:864][226]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.19-08.29.31:864][226]Can't find target actor or component.
+[2019.07.19-08.29.32:491][300]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.19-08.29.32:491][300]Can't find target actor or component.
+[2019.07.19-08.29.33:780][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.29.34:070][471]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.19-08.29.40:800][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.29.46:304][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.29.47:825][803]LogActorFactory: Actor Factory created SM_Plains_LargeRock01
+[2019.07.19-08.29.49:153][960]LogActorFactory: Actor Factory created SM_Plains_LargeRock01
+[2019.07.19-08.29.57:904][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.30.03:536][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.07.19-08.30.04:497][650]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.07.19-08.30.04:536][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.07.19-08.30.04:632][650]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel12BA5D4FC4F3619C06CB1CAB786BD096D.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel1.umap'
+[2019.07.19-08.30.04:667][650]LogFileHelpers: Saving map 'BlockLevel1' took 0.157
+[2019.07.19-08.30.04:671][650]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.30.04:676][650]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.30.04:677][650]LoadErrors: New page: 맵 로드중: BlockMain.umap
+[2019.07.19-08.30.04:678][650]MapCheck: New page: 맵 체크
+[2019.07.19-08.30.04:678][650]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.30.04:703][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.07.19-08.30.04:729][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.07.19-08.30.04:753][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.07.19-08.30.04:759][650]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel2) is flushing async loading
+[2019.07.19-08.30.04:759][650]LogStreaming: Display: Flushing async loaders.
+[2019.07.19-08.30.04:765][650]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel1) is flushing async loading
+[2019.07.19-08.30.04:770][650]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.30.04:797][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.07.19-08.30.04:825][650]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.30.04:825][650]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.284ms.
+[2019.07.19-08.30.04:825][650]LogFileHelpers: Loading map 'BlockMain' took 0.155
+[2019.07.19-08.30.04:825][650]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.30.15:574][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.30.31:072][715]Cmd: EDIT COPY
+[2019.07.19-08.30.31:564][774]Cmd: EDIT PASTE
+[2019.07.19-08.30.34:650][144]Cmd: DELETE
+[2019.07.19-08.30.34:650][144]Cmd: ACTOR DELETE
+[2019.07.19-08.30.34:674][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.07.19-08.30.34:674][144]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2019.07.19-08.30.46:940][369]Cmd: EDIT COPY
+[2019.07.19-08.30.47:500][436]Cmd: EDIT PASTE
+[2019.07.19-08.31.11:122][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.07.19-08.31.11:133][178]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: BlockLevel2, Actor: /Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.REINST_BlockLevel2_C_0
+[2019.07.19-08.31.11:218][178]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel2BC316AE84238F02957CBAE8E720AB605.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel2.umap'
+[2019.07.19-08.31.11:258][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.07.19-08.31.11:269][178]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: BlockLevel1, Actor: /Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.REINST_BlockLevel1_C_0
+[2019.07.19-08.31.11:352][178]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel16D5BDC3D417623E8D2E87EB273C51E38.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel1.umap'
+[2019.07.19-08.31.38:677][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.31.38:743][436]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.07.19-08.31.38:760][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel.BlockMain' with GeneratedClass '/Game/Maps/Main/BlockMain.BlockMain_C' with ClassGeneratedBy '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel.BlockMain'
+[2019.07.19-08.31.38:760][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.BlockLevel2' with GeneratedClass '/Game/Maps/Main/BlockLevel2.BlockLevel2_C' with ClassGeneratedBy '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.BlockLevel2'
+[2019.07.19-08.31.38:760][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.BlockLevel1' with GeneratedClass '/Game/Maps/Main/BlockLevel1.BlockLevel1_C' with ClassGeneratedBy '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.BlockLevel1'
+[2019.07.19-08.31.38:760][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.19-08.31.38:760][436]PIE: New page: PIE 세션: BlockMain (2019. 7. 20. 오전 2:31:38)
+[2019.07.19-08.31.38:760][436]LogPlayLevel: Creating play world package: /Game/Maps/Main/UEDPIE_0_BlockMain
+[2019.07.19-08.31.38:763][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002696s)
+[2019.07.19-08.31.38:764][436]LogAIModule: Creating AISystem for world BlockMain
+[2019.07.19-08.31.38:764][436]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2019.07.19-08.31.38:764][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main/BlockMain.BlockMain to /Game/Maps/Main/UEDPIE_0_BlockMain.BlockMain (0.004266s)
+[2019.07.19-08.31.38:787][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.07.19-08.31.38:790][436]LogInit: XAudio2 using '디지털 오디오(S/PDIF)(High Definition Audio 장치)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.19-08.31.38:801][436]LogInit: FAudioDevice initialized.
+[2019.07.19-08.31.38:831][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.19-08.31.38:836][436]LogWorld: Bringing World /Game/Maps/Main/UEDPIE_0_BlockMain.BlockMain up for play (max tick rate 0) at 2019.07.19-17.31.38
+[2019.07.19-08.31.38:836][436]LogWorld: Bringing up level for play took: 0.000441
+[2019.07.19-08.31.38:849][436]PIE: /Game/Maps/Main/UEDPIE_0_BlockMain 에 대한 에디터에서 플레이 시작 시간: 0.327
+[2019.07.19-08.31.38:850][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel.BlockMain' with GeneratedClass '/Game/Maps/Main/BlockMain.BlockMain_C' with ClassGeneratedBy '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel.BlockMain'
+[2019.07.19-08.31.38:850][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.BlockLevel2' with GeneratedClass '/Game/Maps/Main/BlockLevel2.BlockLevel2_C' with ClassGeneratedBy '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.BlockLevel2'
+[2019.07.19-08.31.38:850][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.BlockLevel1' with GeneratedClass '/Game/Maps/Main/BlockLevel1.BlockLevel1_C' with ClassGeneratedBy '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.BlockLevel1'
+[2019.07.19-08.31.43:030][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel.BlockMain' with GeneratedClass '/Game/Maps/Main/BlockMain.BlockMain_C' with ClassGeneratedBy '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel.BlockMain'
+[2019.07.19-08.31.43:030][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.BlockLevel2' with GeneratedClass '/Game/Maps/Main/BlockLevel2.BlockLevel2_C' with ClassGeneratedBy '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.BlockLevel2'
+[2019.07.19-08.31.43:030][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.BlockLevel1' with GeneratedClass '/Game/Maps/Main/BlockLevel1.BlockLevel1_C' with ClassGeneratedBy '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.BlockLevel1'
+[2019.07.19-08.31.43:030][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-08.31.43:059][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.19-08.31.43:059][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel.BlockMain' with GeneratedClass '/Game/Maps/Main/BlockMain.BlockMain_C' with ClassGeneratedBy '/Game/Maps/Main/BlockMain.BlockMain:PersistentLevel.BlockMain'
+[2019.07.19-08.31.43:059][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.BlockLevel2' with GeneratedClass '/Game/Maps/Main/BlockLevel2.BlockLevel2_C' with ClassGeneratedBy '/Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.BlockLevel2'
+[2019.07.19-08.31.43:059][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.BlockLevel1' with GeneratedClass '/Game/Maps/Main/BlockLevel1.BlockLevel1_C' with ClassGeneratedBy '/Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.BlockLevel1'
+[2019.07.19-08.31.43:086][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.19-08.31.43:089][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.07.19-08.31.43:134][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.19-08.31.43:140][935]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.07.19-08.31.49:440][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.32.00:204][935]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.32.03:630][342]MapCheck: New page: 맵 체크
+[2019.07.19-08.32.03:645][342]LightingResults: New page: 라이팅 빌드 - 2019. 7. 20. 오전 2:32:03
+[2019.07.19-08.32.03:711][342]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.07.19-08.32.03:830][342]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.07.19-08.32.03:955][342]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.07.19-08.32.04:527][342]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.07.19-08.32.04:527][342]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1148
+[2019.07.19-08.32.09:318][342]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.07.19-08.32.09:318][342]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.07.19-08.32.09:319][342]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.07.19-08.32.09:319][342]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.07.19-08.32.09:319][342]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.07.19-08.32.09:319][342]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.07.19-08.32.09:661][342]LogEditorBuildUtils: Build time 0:06
+[2019.07.19-08.32.09:705][343]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Plains_Floors_Block, compiling. 
+[2019.07.19-08.32.09:714][343]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Plains_Floors_Block, compiling. 
+[2019.07.19-08.32.09:774][344]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Plains_Pillars, compiling. 
+[2019.07.19-08.32.09:782][344]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Plains_Pillars, compiling. 
+[2019.07.19-08.32.09:802][345]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Plains_StoneWall, compiling. 
+[2019.07.19-08.32.09:810][345]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Plains_StoneWall, compiling. 
+[2019.07.19-08.32.09:852][346]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_PLains_Fern01, compiling. 
+[2019.07.19-08.32.09:861][346]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_PLains_Fern01, compiling. 
+[2019.07.19-08.32.09:869][346]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_PLains_Fern01, compiling. 
+[2019.07.19-08.32.09:910][347]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Plains_Tree_Stump01, compiling. 
+[2019.07.19-08.32.09:919][347]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Plains_Tree_Stump01, compiling. 
+[2019.07.19-08.32.09:969][348]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Plains_LargeRock, compiling. 
+[2019.07.19-08.32.09:977][348]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Plains_LargeRock, compiling. 
+[2019.07.19-08.32.12:583][349]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.07.19-08.32.12:583][349]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.07.19-08.32.12:878][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.07.19-08.32.35:003][331]Job is a success!
+[2019.07.19-08.32.35:056][332]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2019.07.19-08.32.35:056][332]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.07.19-08.32.35:056][332]LogVolumetricLightmapImport:      BrickData 165x5x5 = 0.1Mb
+[2019.07.19-08.32.35:056][332]LogVolumetricLightmapImport:      Bricks at Level
+[2019.07.19-08.32.35:056][332]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2019.07.19-08.32.35:056][332]LogVolumetricLightmapImport:          1: 6.1% covering 3.1% of volume
+[2019.07.19-08.32.35:056][332]LogVolumetricLightmapImport:          2: 90.9% covering 0.7% of volume
+[2019.07.19-08.32.37:082][332]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.07.19-08.32.37:082][332]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.07.19-08.32.37:082][332]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.07.19-08.32.37:082][332]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.07.19-08.32.37:082][332]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.07.19-08.32.37:082][332]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.07.19-08.32.37:218][332]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 32X32)
+[2019.07.19-08.32.37:218][332]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 1024X512)
+[2019.07.19-08.32.37:218][332]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 1024X512)
+[2019.07.19-08.32.37:262][332]Lightmass on DESKTOP-MKQ8MKT: 23.6 sec total, 185 ms importing, 78 ms setup, 2.18 sec photons, 21.1 sec processing, 0 ms extra exporting [16/16 mappings]. Threads: 1:24 min total, 53.8 sec processing.
+[2019.07.19-08.32.37:264][332]LogStaticLightingSystem: BlockLevel2_BuiltData storing lightmap data for 9 meshes in 1 LightmapResourceClusters (9.0 Meshes per cluster).
+[2019.07.19-08.32.37:264][332]LogStaticLightingSystem: BlockLevel1_BuiltData storing lightmap data for 6 meshes in 1 LightmapResourceClusters (6.0 Meshes per cluster).
+[2019.07.19-08.32.37:290][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.07.19-08.32.37:300][332]LogStaticLightingSystem: Illumination: 33.6 sec (1.92 sec encoding lightmaps, 130 ms encoding shadowmaps)
+[2019.07.19-08.32.37:300][332]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.07.19-08.32.37:300][332]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2019.07.19-08.32.37:330][332]DumpUnbuiltLightIteractions
+[2019.07.19-08.32.37:330][332]Lights with unbuilt interactions: 0
+[2019.07.19-08.32.37:330][332]
+[2019.07.19-08.32.37:330][332]Primitives with unbuilt interactions: 0
+[2019.07.19-08.32.37:396][333]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.07.19-08.32.37:396][333]MapCheck: New page: BlockMain - 2019. 7. 20. 오전 2:32:37
+[2019.07.19-08.32.37:397][333]MapCheck: Warning: SM_Plains_Tree_Stump01_8 SM_Plains_Tree_Stump01_8 위치가 SM_Plains_Tree_Stump2 위치와 같습니다. 
+[2019.07.19-08.32.37:397][333]MapCheck: Warning: SM_Plains_Tree_Stump2 SM_Plains_Tree_Stump2 위치가 SM_Plains_Tree_Stump01_8 위치와 같습니다. 
+[2019.07.19-08.32.37:397][333]MapCheck: 맵 체크 완료: 오류 0 회, 경고 2 회, 소요 시간 1.059ms.
+[2019.07.19-08.32.41:928][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.07.19-08.32.42:000][863]LogAIModule: Creating AISystem for world BlockLevel2_2
+[2019.07.19-08.32.45:946][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.07.19-08.32.48:563][328]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.19-08.32.48:623][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.07.19-08.32.50:419][543]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Main/BlockLevel2.BlockLevel2
+[2019.07.19-08.32.50:441][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.07.19-08.32.51:389][543]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.07.19-08.32.51:422][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.19-08.32.51:442][543]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: BlockLevel1, Actor: /Game/Maps/Main/BlockLevel1.BlockLevel1:PersistentLevel.REINST_BlockLevel1_C_0
+[2019.07.19-08.32.51:526][543]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel1ACB9A36A446382D49C19189ACD6B9718.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel1.umap'
+[2019.07.19-08.32.51:528][543]LogFileHelpers: Saving map 'BlockLevel1' took 0.133
+[2019.07.19-08.32.51:529][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockLevel1_BuiltData" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel1_BuiltData.uasset" SILENT=true
+[2019.07.19-08.32.51:650][543]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel1_BuiltDataEEB9F6BC4D8076AEB0C2FBB6C26EFDBC.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel1_BuiltData.uasset'
+[2019.07.19-08.32.51:678][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.07.19-08.32.51:689][543]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: BlockLevel2, Actor: /Game/Maps/Main/BlockLevel2.BlockLevel2:PersistentLevel.REINST_BlockLevel2_C_0
+[2019.07.19-08.32.51:776][543]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel2A53C19624793D95D865A2C867A80C409.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel2.umap'
+[2019.07.19-08.32.51:779][543]LogFileHelpers: Saving map 'BlockLevel2' took 0.127
+[2019.07.19-08.32.51:779][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockLevel2_BuiltData" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel2_BuiltData.uasset" SILENT=true
+[2019.07.19-08.32.51:899][543]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel2_BuiltData536392724B84D055408AB288C87B12FC.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel2_BuiltData.uasset'
+[2019.07.19-08.32.51:901][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockMain" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.19-08.32.51:927][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.07.19-08.32.52:033][543]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockMain1D1582F14A6B278BC2AB05A6A2FAEBE6.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap'
+[2019.07.19-08.32.52:066][543]LogFileHelpers: Saving map 'BlockMain' took 0.164
+[2019.07.19-08.32.52:066][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockMain_BuiltData" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain_BuiltData.uasset" SILENT=true
+[2019.07.19-08.32.52:093][543]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockMain_BuiltDataBD5CEDB947071F8ECEED80AC0543919D.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain_BuiltData.uasset'
+[2019.07.19-08.32.52:099][543]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.32.52:099][543]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.32.52:100][543]LoadErrors: New page: 맵 로드중: BlockLevel2.umap
+[2019.07.19-08.32.52:101][543]MapCheck: New page: 맵 체크
+[2019.07.19-08.32.52:101][543]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.32.52:127][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.07.19-08.32.52:127][543]LogAIModule: Creating AISystem for world BlockLevel2
+[2019.07.19-08.32.52:129][543]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.32.52:155][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.07.19-08.32.52:186][543]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.32.52:186][543]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.114ms.
+[2019.07.19-08.32.52:187][543]LogFileHelpers: Loading map 'BlockLevel2' took 0.090
+[2019.07.19-08.32.52:237][543]LogAIModule: Creating AISystem for world BlockLevel1
+[2019.07.19-08.32.52:248][543]LogAIModule: Creating AISystem for world BlockMain
+[2019.07.19-08.32.52:295][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.07.19-08.32.58:223][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.32.58:369][230]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Main/BlockMain.BlockMain
+[2019.07.19-08.32.58:392][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.19-08.32.58:393][230]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.32.58:393][230]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.32.58:393][230]LoadErrors: New page: 맵 로드중: BlockMain.umap
+[2019.07.19-08.32.58:394][230]MapCheck: New page: 맵 체크
+[2019.07.19-08.32.58:394][230]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.32.58:419][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.07.19-08.32.58:444][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.07.19-08.32.58:468][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.07.19-08.32.58:470][230]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel2) is flushing async loading
+[2019.07.19-08.32.58:470][230]LogStreaming: Display: Flushing async loaders.
+[2019.07.19-08.32.58:477][230]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel1) is flushing async loading
+[2019.07.19-08.32.58:483][230]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.32.58:510][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.07.19-08.32.58:539][230]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.32.58:540][230]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.313ms.
+[2019.07.19-08.32.58:541][230]LogFileHelpers: Loading map 'BlockMain' took 0.148
+[2019.07.19-08.33.05:111][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.33.06:334][144]Cmd: EDIT COPY
+[2019.07.19-08.33.06:654][182]Cmd: EDIT PASTE
+[2019.07.19-08.33.16:148][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.33.19:201][609]Cmd: DELETE
+[2019.07.19-08.33.19:201][609]Cmd: ACTOR DELETE
+[2019.07.19-08.33.19:204][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.33.19:205][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.33.19:205][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.33.19:205][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.33.19:205][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.33.19:205][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.33.19:206][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.33.19:206][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.33.19:206][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.33.19:230][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.07.19-08.33.19:230][609]LogEditorActor: Deleted 9 Actors (0.029 secs)
+[2019.07.19-08.33.22:704][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.33.24:632][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.07.19-08.33.24:704][191]LogAIModule: Creating AISystem for world BlockLevel2_2
+[2019.07.19-08.33.33:662][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.07.19-08.33.33:662][250]LogMetaData: Removing '/Game/Maps/Main/BlockLevel3.SKEL_BlockLevel3_C' ref from Metadata '/Game/Maps/Main/BlockLevel2_2.PackageMetaData'
+[2019.07.19-08.33.33:662][250]LogMetaData: Removing '/Game/Maps/Main/BlockLevel3.BlockLevel3_C' ref from Metadata '/Game/Maps/Main/BlockLevel2_2.PackageMetaData'
+[2019.07.19-08.33.33:677][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockLevel3_BuiltData" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3_BuiltData.uasset" SILENT=true
+[2019.07.19-08.33.33:797][250]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel3_BuiltDataA53C5B7C483358DD4F239B889A4BBE48.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3_BuiltData.uasset'
+[2019.07.19-08.33.33:829][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.07.19-08.33.33:919][250]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel3A545A73A4A7BFD28D958138BE8326AD5.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3.umap'
+[2019.07.19-08.33.33:924][250]LogFileHelpers: Saving map 'BlockLevel3' took 0.122
+[2019.07.19-08.33.34:061][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.07.19-08.33.34:085][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.07.19-08.33.34:111][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.07.19-08.33.34:134][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.07.19-08.34.01:483][517]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.34.10:476][594]Cmd: TRANSACTION UNDO
+[2019.07.19-08.34.10:476][594]LogEditorTransaction: Undo 레벨 가시성 토글
+[2019.07.19-08.34.13:316][929]Cmd: TRANSACTION UNDO
+[2019.07.19-08.34.13:316][929]LogEditorTransaction: Undo 액터 삭제
+[2019.07.19-08.34.20:930][835]Cmd: TRANSACTION UNDO
+[2019.07.19-08.34.20:930][835]LogEditorTransaction: Undo 액터 클릭
+[2019.07.19-08.34.25:953][416]Cmd: DELETE
+[2019.07.19-08.34.25:953][416]Cmd: ACTOR DELETE
+[2019.07.19-08.34.25:956][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.25:956][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.25:956][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.25:957][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.25:957][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.25:957][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.25:957][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.25:957][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.25:958][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.25:981][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.19-08.34.25:981][416]LogEditorActor: Deleted 9 Actors (0.029 secs)
+[2019.07.19-08.34.29:297][810]Cmd: DELETE
+[2019.07.19-08.34.29:297][810]Cmd: ACTOR DELETE
+[2019.07.19-08.34.29:298][810]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.29:321][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.07.19-08.34.29:322][810]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.19-08.34.30:389][935]Cmd: DELETE
+[2019.07.19-08.34.30:389][935]Cmd: ACTOR DELETE
+[2019.07.19-08.34.30:391][935]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.30:414][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.07.19-08.34.30:415][935]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.19-08.34.31:304][ 39]Cmd: DELETE
+[2019.07.19-08.34.31:305][ 39]Cmd: ACTOR DELETE
+[2019.07.19-08.34.31:306][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.31:329][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.07.19-08.34.31:330][ 39]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.07.19-08.34.36:745][672]Cmd: DELETE
+[2019.07.19-08.34.36:745][672]Cmd: ACTOR DELETE
+[2019.07.19-08.34.36:747][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.36:748][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.36:748][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.36:748][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.36:748][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.36:749][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.07.19-08.34.36:771][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.19-08.34.36:772][672]LogEditorActor: Deleted 6 Actors (0.027 secs)
+[2019.07.19-08.34.44:574][412]LogSlate: Window '레벨 제거' being destroyed
+[2019.07.19-08.34.44:610][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.07.19-08.34.44:637][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.07.19-08.34.44:637][412]MapCheck: New page: 맵 체크
+[2019.07.19-08.34.44:637][412]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.34.44:660][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.07.19-08.34.44:683][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.07.19-08.34.47:952][712]LogSlate: Window '레벨 제거' being destroyed
+[2019.07.19-08.34.47:988][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.07.19-08.34.48:014][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.07.19-08.34.48:015][712]MapCheck: New page: 맵 체크
+[2019.07.19-08.34.48:015][712]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.34.48:038][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.19-08.34.48:061][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.19-08.34.51:267][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.34.51:699][128]LogAIModule: Creating AISystem for world BlockLevel3
+[2019.07.19-08.34.51:722][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.07.19-08.34.52:744][128]LogSlate: Window 'Delete Assets' being destroyed
+[2019.07.19-08.34.52:802][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.07.19-08.34.52:825][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.07.19-08.34.52:850][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.07.19-08.34.52:873][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.19-08.35.01:247][127]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel2) is flushing async loading
+[2019.07.19-08.35.01:247][127]LogStreaming: Display: Flushing async loaders.
+[2019.07.19-08.35.01:259][127]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.35.03:722][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.35.09:945][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.35.10:108][167]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Main/BlockLevel2.BlockLevel2
+[2019.07.19-08.35.10:130][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.07.19-08.35.11:272][167]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.07.19-08.35.11:277][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockMain" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.19-08.35.11:304][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.07.19-08.35.11:415][167]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockMainB65D02AD4E1B2D77F3057FA1754A7129.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap'
+[2019.07.19-08.35.11:445][167]LogFileHelpers: Saving map 'BlockMain' took 0.167
+[2019.07.19-08.35.11:447][167]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.35.11:447][167]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.11:448][167]LoadErrors: New page: 맵 로드중: BlockLevel2.umap
+[2019.07.19-08.35.11:449][167]MapCheck: New page: 맵 체크
+[2019.07.19-08.35.11:449][167]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.11:475][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.07.19-08.35.11:476][167]LogAIModule: Creating AISystem for world BlockLevel2
+[2019.07.19-08.35.11:477][167]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.35.11:502][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.07.19-08.35.11:531][167]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.35.11:531][167]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.124ms.
+[2019.07.19-08.35.11:532][167]LogFileHelpers: Loading map 'BlockLevel2' took 0.087
+[2019.07.19-08.35.11:573][167]LogAIModule: Creating AISystem for world BlockMain
+[2019.07.19-08.35.11:599][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.07.19-08.35.14:774][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.35.17:947][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.35.21:620][894]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2019.07.19-08.35.21:624][894]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.07.19-08.35.22:010][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.07.19-08.35.22:080][894]LogAIModule: Creating AISystem for world BlockLevel3
+[2019.07.19-08.35.22:113][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.07.19-08.35.22:200][894]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel38451196C484B0F80FFD80CB9C6AE79D6.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3.umap'
+[2019.07.19-08.35.22:208][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockLevel3_BuiltData" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3_BuiltData.uasset" SILENT=true
+[2019.07.19-08.35.22:327][894]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel3_BuiltDataF4117C004B47621E367543A8C84A6EE4.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3_BuiltData.uasset'
+[2019.07.19-08.35.22:333][894]LogFileHelpers: Saving map 'BlockLevel3' took 0.705
+[2019.07.19-08.35.22:333][894]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.35.22:336][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.35.22:338][894]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.22:339][894]LoadErrors: New page: 맵 로드중: BlockLevel3.umap
+[2019.07.19-08.35.22:339][894]MapCheck: New page: 맵 체크
+[2019.07.19-08.35.22:339][894]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.22:365][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.07.19-08.35.22:390][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.07.19-08.35.22:417][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.07.19-08.35.22:427][894]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.35.22:453][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.07.19-08.35.22:481][894]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.35.22:481][894]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.135ms.
+[2019.07.19-08.35.22:481][894]LogFileHelpers: Loading map 'BlockLevel3' took 0.148
+[2019.07.19-08.35.27:689][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.35.30:506][835]LogAIModule: Creating AISystem for world BlockMain
+[2019.07.19-08.35.30:508][835]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Main/BlockMain.BlockMain
+[2019.07.19-08.35.30:532][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.07.19-08.35.30:533][835]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.35.30:534][835]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.30:534][835]LoadErrors: New page: 맵 로드중: BlockMain.umap
+[2019.07.19-08.35.30:535][835]MapCheck: New page: 맵 체크
+[2019.07.19-08.35.30:535][835]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.30:560][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.07.19-08.35.30:562][835]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel2) is flushing async loading
+[2019.07.19-08.35.30:562][835]LogStreaming: Display: Flushing async loaders.
+[2019.07.19-08.35.30:570][835]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel1) is flushing async loading
+[2019.07.19-08.35.30:576][835]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.35.30:603][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.07.19-08.35.30:628][835]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.35.30:629][835]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.28ms.
+[2019.07.19-08.35.30:629][835]LogFileHelpers: Loading map 'BlockMain' took 0.096
+[2019.07.19-08.35.33:970][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.35.35:234][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.35.36:395][501]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel3) is flushing async loading
+[2019.07.19-08.35.36:395][501]LogStreaming: Display: Flushing async loaders.
+[2019.07.19-08.35.36:408][501]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.35.38:652][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.35.46:635][629]LogSlate: Window '레벨 제거' being destroyed
+[2019.07.19-08.35.46:644][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.35.46:671][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.07.19-08.35.46:706][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.07.19-08.35.46:706][629]MapCheck: New page: 맵 체크
+[2019.07.19-08.35.46:706][629]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.46:729][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.07.19-08.35.46:753][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.07.19-08.35.47:978][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.35.48:132][791]LogAIModule: Creating AISystem for world BlockLevel3
+[2019.07.19-08.35.48:134][791]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Main/BlockLevel3.BlockLevel3
+[2019.07.19-08.35.48:156][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.19-08.35.50:051][791]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.07.19-08.35.50:056][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockMain" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.19-08.35.50:083][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.07.19-08.35.50:190][791]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockMain853D1EBF4BAAE9725BC141B4BEF5DF0B.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap'
+[2019.07.19-08.35.50:220][791]LogFileHelpers: Saving map 'BlockMain' took 0.165
+[2019.07.19-08.35.50:221][791]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.35.50:221][791]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.50:222][791]LoadErrors: New page: 맵 로드중: BlockLevel3.umap
+[2019.07.19-08.35.50:223][791]MapCheck: New page: 맵 체크
+[2019.07.19-08.35.50:223][791]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.50:249][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.07.19-08.35.50:251][791]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.35.50:277][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.07.19-08.35.50:305][791]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.35.50:305][791]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.131ms.
+[2019.07.19-08.35.50:305][791]LogFileHelpers: Loading map 'BlockLevel3' took 0.085
+[2019.07.19-08.35.50:348][791]LogAIModule: Creating AISystem for world BlockMain
+[2019.07.19-08.35.50:374][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.07.19-08.35.51:100][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.35.57:760][673]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Main/BlockMain.BlockMain
+[2019.07.19-08.35.57:782][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.07.19-08.35.58:940][673]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.07.19-08.35.58:974][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.07.19-08.35.59:077][673]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel38F72E7884A0028DD8C19F5BC3ABE3F34.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3.umap'
+[2019.07.19-08.35.59:110][673]LogFileHelpers: Saving map 'BlockLevel3' took 0.165
+[2019.07.19-08.35.59:112][673]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.35.59:113][673]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.59:113][673]LoadErrors: New page: 맵 로드중: BlockMain.umap
+[2019.07.19-08.35.59:114][673]MapCheck: New page: 맵 체크
+[2019.07.19-08.35.59:114][673]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.35.59:140][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.07.19-08.35.59:142][673]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel1) is flushing async loading
+[2019.07.19-08.35.59:142][673]LogStreaming: Display: Flushing async loaders.
+[2019.07.19-08.35.59:149][673]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Main/BlockLevel2) is flushing async loading
+[2019.07.19-08.35.59:156][673]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.35.59:183][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.07.19-08.35.59:212][673]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.35.59:212][673]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.272ms.
+[2019.07.19-08.35.59:213][673]LogFileHelpers: Loading map 'BlockMain' took 0.102
+[2019.07.19-08.35.59:251][673]LogAIModule: Creating AISystem for world BlockLevel3
+[2019.07.19-08.36.00:709][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.36.04:070][240]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.36.21:697][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.36.28:276][ 81]LogEditorViewport: Clicking Background
+[2019.07.19-08.36.29:228][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.36.43:822][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.36.50:645][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.36.53:028][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.37.00:549][823]Cmd: PIVOT HERE
+[2019.07.19-08.37.08:987][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.37.09:071][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.07.19-08.37.09:082][833]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: BlockLevel3, Actor: /Game/Maps/Main/BlockLevel3.BlockLevel3:PersistentLevel.REINST_BlockLevel3_C_0
+[2019.07.19-08.37.09:165][833]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel3C9A8329C4D2D57E680839F8E1DEA08F4.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3.umap'
+[2019.07.19-08.37.09:170][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockLevel3_BuiltData" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3_BuiltData.uasset" SILENT=true
+[2019.07.19-08.37.09:356][833]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockLevel3_BuiltData0CD7593F4377ADA004403FA729660A1A.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3_BuiltData.uasset'
+[2019.07.19-08.37.10:278][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.19-08.37.19:024][954]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.19-08.37.46:305][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.39.10:478][148]LogSlate: Window '레벨 열기' being destroyed
+[2019.07.19-08.39.57:141][136]LogAIModule: Creating AISystem for world BlockLevel3_Ronnie
+[2019.07.19-08.39.57:143][136]LogUObjectGlobals: Warning: 'Object /Game/Maps/Main/BlockLevel3_Ronnie.BlockLevel3' 오브젝트를 찾는 데 실패했습니다.
+[2019.07.19-08.39.59:084][342]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Main/BlockLevel3.BlockLevel3
+[2019.07.19-08.39.59:108][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.07.19-08.40.00:232][342]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.07.19-08.40.00:238][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main/BlockMain" FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.19-08.40.00:264][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.07.19-08.40.00:374][342]LogSavePackage: Moving '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Saved/BlockMainC6F03A574E7C67DC3C9E2985EB508932.tmp' to '../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockMain.umap'
+[2019.07.19-08.40.00:407][342]LogFileHelpers: Saving map 'BlockMain' took 0.170
+[2019.07.19-08.40.00:410][342]Cmd: MAP LOAD FILE="../../../../../../Users/STL/newbie/STL_BPGraphics/STL_BPRPG/Content/Maps/Main/BlockLevel3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.19-08.40.00:410][342]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.40.00:411][342]LoadErrors: New page: 맵 로드중: BlockLevel3.umap
+[2019.07.19-08.40.00:413][342]MapCheck: New page: 맵 체크
+[2019.07.19-08.40.00:413][342]LightingResults: New page: 라이팅 빌드
+[2019.07.19-08.40.00:440][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.07.19-08.40.00:468][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.07.19-08.40.00:492][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.07.19-08.40.00:494][342]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.19-08.40.00:521][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.07.19-08.40.00:551][342]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.19-08.40.00:551][342]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.118ms.
+[2019.07.19-08.40.00:552][342]LogFileHelpers: Loading map 'BlockLevel3' took 0.143
+[2019.07.19-08.40.00:594][342]LogAIModule: Creating AISystem for world BlockMain
+[2019.07.19-08.40.00:620][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.07.19-08.40.02:605][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.19-08.40.02:867][607]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.07.19-08.40.02:868][607]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2019.07.19-08.40.04:671][607]LogWindows: Error: === Critical error: ===
+[2019.07.19-08.40.04:671][607]LogWindows: Error: 
+[2019.07.19-08.40.04:671][607]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\Obj.cpp] [Line: 200] 
+[2019.07.19-08.40.04:671][607]LogWindows: Error: Renaming an object (Package /Game/Maps/Main/BlockLevel3_BuiltData) on top of an existing object (Package /Game/Maps/Main/BlockLevel3_Ronnie_BuiltData) is not allowed
+[2019.07.19-08.40.04:671][607]LogWindows: Error: 
+[2019.07.19-08.40.04:671][607]LogWindows: Error: 
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff95299a388 KERNELBASE.dll!UnknownFunction []
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff91bba1f07 UE4Editor-Core.dll!UnknownFunction []
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff91bba46b7 UE4Editor-Core.dll!UnknownFunction []
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff91b9b7cea UE4Editor-Core.dll!UnknownFunction []
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff91b93fe07 UE4Editor-Core.dll!UnknownFunction []
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff91b3f459e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff91250e404 UE4Editor-Engine.dll!UnknownFunction []
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff912505c75 UE4Editor-Engine.dll!UnknownFunction []
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff91b3d13cb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff91b3ec6b6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:671][607]LogWindows: Error: [Callstack] 0x00007ff91b3d132a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91b3ec6b6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff911437d01 UE4Editor-Engine.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91b3d132a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91b47a69d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91b46a397 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91b488d4c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91b487d9a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91b495d69 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91b49db1b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91b49d2e3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff8f64c2c4f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff8f6480ad9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff8f64cb2fc UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff8f647e70a UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff8f647ae10 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff8f64d4e80 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff8f64cb66f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91ac635ea UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91acde49e UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91acc9d89 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff91acbfd42 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff931dbb88c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff931daef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff931dbd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.19-08.40.04:672][607]LogWindows: Error: [Callstack] 0x00007ff931dac090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: [Callstack] 0x00007ff955ec6d41 USER32.dll!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: [Callstack] 0x00007ff955ec6713 USER32.dll!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: [Callstack] 0x00007ff931dbe946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: [Callstack] 0x00007ff70b2f5d3e UE4Editor.exe!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: [Callstack] 0x00007ff70b30554c UE4Editor.exe!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: [Callstack] 0x00007ff70b3055ca UE4Editor.exe!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: [Callstack] 0x00007ff70b31316c UE4Editor.exe!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: [Callstack] 0x00007ff70b315b8e UE4Editor.exe!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: [Callstack] 0x00007ff955a64034 KERNEL32.DLL!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: [Callstack] 0x00007ff956603691 ntdll.dll!UnknownFunction []
+[2019.07.19-08.40.04:673][607]LogWindows: Error: 
+[2019.07.19-08.40.04:696][607]LogExit: Executing StaticShutdownAfterError
+[2019.07.19-08.40.04:698][607]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.07.19-08.40.04:710][607]Log file closed, 07/19/19 17:40:04
